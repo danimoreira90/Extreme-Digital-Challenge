@@ -1,0 +1,395 @@
+010101Educação em saúde                                                                                   202306
+080301Deslocamento/Ajuda de custo                                                                         202306
+020101Coleta de material por meio de punção/biópsia                                                       202306
+020201Exames bioquimicos                                                                                  202306
+020301Exames citopatológicos                                                                              202306
+020401Exames radiológicos da cabeça e pescoço                                                             202306
+020501Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               202306
+020601Tomografia da cabeça, pescoço e coluna vertebral                                                    202306
+020701RM da cabeça, pescoço e coluna vertebral                                                            202306
+020801Aparelho cardiovascular                                                                             202306
+020901Aparelho digestivo                                                                                  202306
+021001Exames radiológicos de vasos sangüíneos e linfáticos                                                202306
+021101Diagnóstico em angiologia                                                                           202306
+021201Exames do doador/receptor                                                                           202306
+021301Exames relacionados a doenças e agravos de notificação compulsória                                  202306
+021401Teste realizado fora da estrutura de laboratório                                                    202306
+030101Consultas médicas/outros profissionais  de nivel superior                                           202306
+030201Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                202306
+030301Tratamento de doenças infecciosas e parasitárias                                                    202306
+030401Radioterapia                                                                                        202306
+030501Tratamento dialítico                                                                                202306
+030601Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 202306
+030701Dentística                                                                                          202306
+030801Traumatismos                                                                                        202306
+030901Terapia nutricional                                                                                 202306
+031001Parto e nascimento                                                                                  202306
+040101Pequenas cirurgias                                                                                  202306
+040201Cirurgia de tireóide e paratireóide                                                                 202306
+040301Trauma e anomalias do desenvolvimento                                                               202306
+040401Cirurgia das vias aéreas superiores e do pescoço                                                    202306
+040501Palpebras e vias lacrimais                                                                          202306
+040601Cirurgia cardiovascular                                                                             202306
+040701Esôfago, estômago e duodeno                                                                         202306
+040801Cintura escapular                                                                                   202306
+040901Rim, ureter e bexiga                                                                                202306
+041001Mama                                                                                                202306
+041101Parto                                                                                               202306
+041201Traqueia e brônquios                                                                                202306
+041301Tratamento de queimados                                                                             202306
+041401Buco-maxilo-facial                                                                                  202306
+041501Múltiplas                                                                                           202306
+041601Urologia                                                                                            202306
+041701Anestesias                                                                                          202306
+041801Acessos para dialise                                                                                202306
+050101Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      202306
+050201Avaliação clínica de morte encefálica                                                               202306
+050301Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    202306
+050401Processamento de córnea/esclera                                                                     202306
+050501Transplante de tecidos e células                                                                    202306
+050601Acompanhamento de paciente no pré e pós-transplante                                                 202306
+060101Agentes anticitocinas                                                                               202306
+060201Procoagulantes em coagulopatias hereditárias                                                        202306
+060301Antiinflamatórios                                                                                   202306
+060401Acido Aminosalicilico e Similares                                                                   202306
+070101OPM auxiliares da locomoção                                                                         202306
+070201OPM em neurocirurgia                                                                                202306
+080101Incentivos                                                                                          202306
+080201Diárias                                                                                             202306
+010201Vigilancia sanitária                                                                                202306
+010102Saúde bucal                                                                                         202306
+080202Outras ações                                                                                        202306
+020102Outras formas de coleta de material                                                                 202306
+020202Exames hematológicos e hemostasia                                                                   202306
+020302Exames anatomopatológicos                                                                           202306
+020402Exames radiológicos da coluna vertebral                                                             202306
+020502Ultra-sonografias dos demais sistemas                                                               202306
+020602Tomografia do torax e membros superiores                                                            202306
+020702RM do torax e membros superiores                                                                    202306
+020802Aparelho digestivo                                                                                  202306
+020902Aparelho urinário                                                                                   202306
+021002Vias biliares                                                                                       202306
+021102Diagnóstico em cardiologia                                                                          202306
+021202Procedimentos especiais em hemoterápica                                                             202306
+021302Exames relacionados ao meio ambiente                                                                202306
+030102Atendimento/Acompanhamento em saúde do trabalhador                                                  202306
+030202Assistência fisioterapêutica em alterações oncológicas                                              202306
+030302Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             202306
+030402Quimioterapia paliativa - adulto                                                                    202306
+030502Tratamento em nefrologia em geral                                                                   202306
+030602Medicina transfusional                                                                              202306
+030702Endodontia                                                                                          202306
+030802Intoxicações e envenenamentos                                                                       202306
+030902Terapias em doenças alérgicas                                                                       202306
+040102Cirurgias de pele, tecido subcutâneo e mucosa                                                       202306
+040202Cirurgia da suprarrenal                                                                             202306
+040302Coluna e nervos periféricos                                                                         202306
+040402Cirurgia da face e do sistema estomatognático                                                       202306
+040502Músculos oculomotores                                                                               202306
+040602Cirurgia vascular                                                                                   202306
+040702Intestinos , reto e anus                                                                            202306
+040802Membros superiores                                                                                  202306
+040902Uretra                                                                                              202306
+041102Outras cirurgias relacionadas com o estado gestacional                                              202306
+041202Mediastino                                                                                          202306
+041302Reparadora em oncológica                                                                            202306
+041402Cirurgia oral                                                                                       202306
+041502Sequenciais                                                                                         202306
+041602Sistema linfático                                                                                   202306
+041802Intervençõess cirúrgicas em acessos para diálise                                                    202306
+050102Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      202306
+050302Cirurgias para transplante - doador vivo                                                            202306
+050402Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      202306
+050502Transplante de orgãos                                                                               202306
+050602Intercorrência pós transplante                                                                      202306
+060102Antagonista do glutamato                                                                            202306
+060302Imunossupressores                                                                                   202306
+060402Agentes Quelantes de Ferro                                                                          202306
+070102OPM ortopédicas                                                                                     202306
+070202OPM em cirurgia buco-maxilo-facial                                                                  202306
+010202Vigilância em saúde do trabalhador                                                                  202306
+010103Visita domiciliar                                                                                   202306
+070203OPM em ortopedia                                                                                    202306
+020203Exames sorológicos e imunológicos                                                                   202306
+020403Exames radiológicos do torax e mediastino                                                           202306
+020603Tomografia do abdomen, pelve e membros inferiores                                                   202306
+020703RM do abdomen, pelve e membros inferiores                                                           202306
+020803Aparelho endócrino                                                                                  202306
+020903Aparelho ginecológico                                                                               202306
+021103Diagnóstico cinético funcional                                                                      202306
+030103Atendimento pré-hospitalar de urgência                                                              202306
+030203Assistência fisioterapêutica em oftalmologia                                                        202306
+030303Tratamento de doenças endocrinas, metabólicas e nutricionais                                        202306
+030403Quimioterapia para controle temporário de doença - adulto                                           202306
+030703Periodontia clínica                                                                                 202306
+030803Outras consequências de causas externas                                                             202306
+030903Terapias do aparelho geniturinário                                                                  202306
+040303Tumores do sistema nervoso                                                                          202306
+040403Anomalia Crânio e bucomaxilo facial                                                                 202306
+040503Corpo vítreo, retina, coróide e esclera                                                             202306
+040603Cardiologia intervencionista                                                                        202306
+040703Pancreas, baco, figado e vias biliares                                                              202306
+040803Coluna vertebral e caixa torácica                                                                   202306
+040903Próstata e vesicula seminal                                                                         202306
+041203Pleura                                                                                              202306
+041303Reparadora para lipodistrofia                                                                       202306
+041503Politraumatizados                                                                                   202306
+041603Cabeça e pescoço                                                                                    202306
+050103Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)202306
+050303Manutenção e retirada de orgãos e tecidos para transplante                                          202306
+050403Processamento de válvula/tubo valvado cardíaco humano                                               202306
+060103Antianêmicos não hormonais                                                                          202306
+060303Imunoterápicos                                                                                      202306
+060403Agonistas da Dopamina/inibidor da prolactina                                                        202306
+070103OPM em Otorrinolaringologia.                                                                        202306
+010203Vigilância epidemiológica - vacinas                                                                 202306
+010104Alimentação e nutrição                                                                              202306
+020204Exames coprológicos                                                                                 202306
+020404Exames radiológicos da cintura escapular e dos membros superiores                                   202306
+020804Aparelho geniturinário                                                                              202306
+020904Aparelho respiratório                                                                               202306
+021104Diagnóstico em ginecologia-obstetrícia                                                              202306
+030104Outros atendimentos realizados por profissionais de níveis superior                                 202306
+030204Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   202306
+030304Tratamento de doenças do sistema nervoso central e periférico                                       202306
+030404Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           202306
+030704Moldagem/Manutenção                                                                                 202306
+030804Complicações consequentes a procedimentos em saúde                                                  202306
+030904Terapias do aparelho cardiovascular                                                                 202306
+040304Neurocirurgias vasculares                                                                           202306
+040504Cavidade orbitária e globo ocular                                                                   202306
+040604Cirurgia endovascular                                                                               202306
+040704Parede e cavidade abdominal                                                                         202306
+040804Cintura pélvica                                                                                     202306
+040904Bolsa escrotal, testículos e cordão espermático                                                     202306
+041204Parede torácica                                                                                     202306
+041304Outras cirurgias plásticas/reparadoras                                                              202306
+041504Procedimentos cirúrgicos gerais                                                                     202306
+041604Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          202306
+050104Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   202306
+050304Açõess complementares destinadas a doação de orgãos, tecidos e células.                             202306
+050404Processamento de pele humana                                                                        202306
+060104Antianêmicos hormonais                                                                              202306
+060304Reguladores de atividade hormonal - inibidores da prolactina                                        202306
+060404Agonistas seletivos dos receptores beta 2 adrenérgicos                                              202306
+070104OPM oftalmológicas                                                                                  202306
+070204OPM em assistência cardiovascular                                                                   202306
+060305Antitrombóticos                                                                                     202306
+060105Antiasmáticos                                                                                       202306
+070105OPM em gastroenterologia                                                                            202306
+070205OPM comuns                                                                                          202306
+010105Praticas integrativas/complementares                                                                202306
+020205Exames de uroanálise                                                                                202306
+020405Exames radiológicos do abdomen e pelve                                                              202306
+020805Aparelho esquelético                                                                                202306
+021105Diagnóstico em neurologia                                                                           202306
+030105Atenção domiciliar                                                                                  202306
+030205Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 202306
+030305Tratamento de doenças do aparelho da visão                                                          202306
+030405Quimioterapia adjuvante (profilática) - adulto                                                      202306
+030905Práticas integrativas e complementares                                                              202306
+040305Tratamento neurocirúrgico da dor funcional                                                          202306
+040505Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                202306
+040605Eletrofisiologia                                                                                    202306
+040805Membros inferiores                                                                                  202306
+040905Pênis                                                                                               202306
+041205Pulmão                                                                                              202306
+041605Colo-proctologia                                                                                    202306
+050105Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 202306
+060405Alcalóides naturais do ópio                                                                         202306
+060306Tensiolítico alveolar                                                                               202306
+060106Antibióticos                                                                                        202306
+070106OPM em urologia                                                                                     202306
+070206OPM em urologia                                                                                     202306
+020206Exames hormonais                                                                                    202306
+020406Exames radiológicos da cintura pélvica e dos membros inferiores                                     202306
+020806Aparelho nervoso                                                                                    202306
+021106Diagnóstico em oftalmologia                                                                         202306
+030106Consulta/Atendimento ás urgências (em geral)                                                        202306
+030206Assistência fisioterapêutica nas alterações em neurologia                                           202306
+030306Tratamento de doenças cardiovasculares                                                              202306
+030406Quimioterapia curativa - adulto                                                                     202306
+030906Acessos venosos                                                                                     202306
+040306Investigação e cirurgia da epilepsia                                                                202306
+040806Gerais                                                                                              202306
+040906Útero e anexos                                                                                      202306
+041606Ginecologia                                                                                         202306
+050106Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  202306
+060406Alimentos dietéticos isentos de fenilalanina                                                        202306
+060307Hemoderivados                                                                                       202306
+060107Antiepiléticos                                                                                      202306
+070107OPM em odontologia                                                                                  202306
+070207OPM em cirurgias oftálmicas                                                                         202306
+020207Exames toxicológicos ou de monitorização terapêutica                                                202306
+020807Aparelho respiratório                                                                               202306
+021107Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  202306
+030107Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          202306
+030207Assistência fisioterapêutica em queimados                                                           202306
+030307Tratamento de doenças do aparelho digestivo                                                         202306
+030407Quimioterapia de tumores de crianca e adolescente                                                   202306
+030907Angiologia                                                                                          202306
+040307Tratamento neuro-endovascular                                                                       202306
+040907Vagina, vulva e períneo                                                                             202306
+041607Oftalmologia                                                                                        202306
+050107Outros exames complementares para doação de orgãos, tecidos e células                               202306
+060407Aminas Terciárias                                                                                   202306
+060308Medicamentos para transplante                                                                       202306
+060408Aminoquinolinas                                                                                     202306
+070108OPM de anomalias buco-maxilo-facial                                                                 202306
+070208OPM em cirurgia plástica/reparadora                                                                 202306
+020208Exames microbiológicos                                                                              202306
+020808Aparelho hematológico                                                                               202306
+060108Antiinflamatórios                                                                                   202306
+030108Atendimento/Acompanhamento psicossocial                                                             202306
+030308Tratamento de doenças da pele e do tecido  subcutâneo                                               202306
+030408Quimioterapia - procedimentos especiais                                                             202306
+040308Neurocirurgia funcional estereotáxica                                                               202306
+041608Pele e cirurgia plástica                                                                            202306
+050108Exames complementares para pacientes transplantados                                                 202306
+021108Diagnóstico em pneumologia                                                                          202306
+060109Antiinflamatórios intestinais                                                                       202306
+060409Análogos da mostarda nitrogenada                                                                    202306
+070109Substituição/Troca em órteses/próteses                                                              202306
+070209OPM em cirurgia de otorrinolaringologia                                                             202306
+020209Exames em outros líquidos biológicos                                                                202306
+020809Outros métodos de diagnóstico em medicina nuclear in vivo                                           202306
+021109Diagnóstico em urologia                                                                             202306
+030109Atendimento/Acompanhamento em saúde do idoso                                                        202306
+030309Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               202306
+030409Medicina nuclear - terapêutica oncológica                                                           202306
+041609Ossos e partes moles                                                                                202306
+070110OPM em queimados                                                                                    202306
+030310Tratamento durante a gestação, parto e puerpério                                                    202306
+030410Gerais em oncologia                                                                                 202306
+021110Diagnóstico em psicologia-psiquiatria                                                               202306
+041610Neurocirurgia                                                                                       202306
+060410Vasopressina e Análogos                                                                             202306
+030110Atendimentos de enfermagem (em geral)                                                               202306
+070210OPM em nefrologia                                                                                   202306
+060110Antiparkinsonianos                                                                                  202306
+020210Exames de genética                                                                                  202306
+030311Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       202306
+030111Atendimento/Acompanhamento queimados                                                                202306
+021111Diagnóstico em cardiologia intervencionista                                                         202306
+020211Exames para triagem neonatal                                                                        202306
+070211OPM em queimados                                                                                    202306
+060411Análogos do hormônio liberador de gonadotrofina                                                     202306
+060111Antipsicóticos                                                                                      202306
+041611Cirurgia torácica                                                                                   202306
+020212Exames imunohematológicos                                                                           202306
+030112Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          202306
+021112Diagnóstico em traumato-ortopedia                                                                   202306
+030312Tratamentos por medicina nuclear in vivo                                                            202306
+060412Antiandrogênios                                                                                     202306
+060112Antivirais                                                                                          202306
+041612Mastologia                                                                                          202306
+070212OPM para transplantes                                                                               202306
+041613Otorrinolaringologia                                                                                202306
+030113Acompanhamento em outras especialidades                                                             202306
+030313Tratamento de pacientes sob cuidados prolongados                                                    202306
+060413Anticolinesterases                                                                                  202306
+060113Bloqueadores neuromusculares                                                                        202306
+060114Ceratolíticos sistêmicos                                                                            202306
+030114Cuidados Paliativos                                                                                 202306
+030314Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      202306
+060414Antigonadotrofinas e agentes similares                                                              202306
+060415Barbitúricos e derivados                                                                            202306
+060115Complementos alimentares para fenilcetonúricos                                                      202306
+030315Tratamento das doenças do aparelho geniturinário                                                    202306
+030316Tratamento de algumas afecçõess originadas no período neonatal                                      202306
+060116Fatores de crescimento mielóides                                                                    202306
+060416Bisfosfonados                                                                                       202306
+030317Tratamento dos transtornos mentais e comportamentais                                                202306
+060117Hipnoanalgésicos                                                                                    202306
+060417Compostos de Alumínio                                                                               202306
+060418Derivados da benzodiazepina                                                                         202306
+060118Hipolipemiantes                                                                                     202306
+030318Tratamento HIV/Aids                                                                                 202306
+060419Derivados de ácidos graxos                                                                          202306
+030319Reabilitação                                                                                        202306
+060119Imunomoduladores                                                                                    202306
+060120Imunossupressores                                                                                   202306
+060420Derivados do adamantano                                                                             202306
+060121Imunoterapicos                                                                                      202306
+060421Derivados do indol                                                                                  202306
+060122Inibidores da acetilcolinesterase                                                                   202306
+060422Derivados da succinimida                                                                            202306
+060123Mucolíticos                                                                                         202306
+060423Diazepinas, oxazepinas e tiazepinas                                                                 202306
+060124Quelantes do ferro                                                                                  202306
+060424 Enzimas                                                                                            202306
+060125Outros quelantes                                                                                    202306
+060425Fatores de estimulação de colônias                                                                  202306
+060126Reguladores da atividade hormonal-agonistas da vasopressina                                         202306
+060426Ferro trivalente, preparações parenterais                                                           202306
+060127Reguladores da atividade hormonal-analogos do GNRH                                                  202306
+060427Fibratos, Acido Nicotínico e seus derivados                                                         202306
+060128Reguladores da atividade hormonal-antiandrogênicos                                                  202306
+060428Glicocorticóides                                                                                    202306
+060429Somatostatina e Análogos                                                                            202306
+060129Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     202306
+060130Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             202306
+060430 Imunoglobulinas específicas                                                                        202306
+060131Reguladores da atividade hormonal-inibidores de prolactina                                          202306
+060431Imunoglobulinas, humana normal                                                                      202306
+060132Reguladores da atividade hormonal-hormonios de crescimento                                          202306
+060432Imunossupressores seletivos                                                                         202306
+060433Inibidores da agregação plaquetária, excl. heparina                                                 202306
+060133Reguladores da atividade hormonal-hormonios tireoidianos                                            202306
+060134Reguladores da atividade hormonal-mineralocorticóides                                               202306
+060434Inibidores da calcineurina                                                                          202306
+060135Reguladores da homeostase do cálcio                                                                 202306
+060435Inibidores da fosfodiesterase                                                                       202306
+060136Repositores enzimáticos                                                                             202306
+060436Inibidores da HMG-CoA redutase                                                                      202306
+060437Inibidores da monoamino oxidase tipo b                                                              202306
+060438Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 202306
+060439Interferonas                                                                                        202306
+060440Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      202306
+060441Medicamentos utilizados na dependência de opióides                                                  202306
+060442Mineralocorticóides                                                                                 202306
+060443Modulador seletivo de receptor de estrogênio                                                        202306
+060444Mucolíticos                                                                                         202306
+060445Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               202306
+060446Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        202306
+060447Outras preparações antianêmicas                                                                     202306
+060448Outros agentes citotóxicos                                                                          202306
+060449Outros agentes dopaminérgicos                                                                       202306
+060450Outros antiepilépticos                                                                              202306
+060451Outros antipsicóticos                                                                               202306
+060452Outros imunoestimulantes                                                                            202306
+060453Outros imunossupressores                                                                            202306
+060454Outros medicamentos do sistema nervoso                                                              202306
+060455Outros relaxantes musculares de ação periférica                                                     202306
+060456Penicilamina e agentes similares                                                                    202306
+060457Preparações de calcitonina                                                                          202306
+060458Preparações de enzimas                                                                              202306
+060459Retinóides para tratamento da acne                                                                  202306
+060460Retinóides para tratamento da psoríase                                                              202306
+060461Somatropina e agonistas da somatropina                                                              202306
+060462Vitamina D e análogos, incluido combinação dos dois                                                 202306
+060463Produtos diversos para o trato alimentar ou metabolismo                                             202306
+060464Inibidores de Protease                                                                              202306
+060465Análogos das Prostaglandinas                                                                        202306
+060466Inibidores da Anidrase Carbonica                                                                    202306
+060467Simpatomiméticos na Terapia de Glaucoma                                                             202306
+060468Anticorpos Monoclonais                                                                              202306
+060469Inibidores de Interleucinas                                                                         202306
+060470Outros Antipsoriaticos de Uso Tópico                                                                202306
+060471Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 202306
+060472Derivados do Ácido Propriônico                                                                      202306
+060473Parassimpaticomiméticos                                                                             202306
+060474Agentes Beta Bloqueadores                                                                           202306
+060475Outros Anti-hipertensivos                                                                           202306
+060476Outros Antivirais                                                                                   202306
+060477Outros Agentes Antiparatireoide                                                                     202306
+060478Insulinas Análogas de Ação Rápida de Uso Injetável                                                  202306
+060479Outras Drogas para Desordem do Sistema Músculo Esquelético                                          202306
+060480Agentes antitrombóticos                                                                             202306
+060481Outros Aminoglicosídeos                                                                             202306
+060482Inibidores do co-transportador 2 de sódio-glicose (SGLT2)                                           202306
+060483Agentes que atuam no sistema renina- angiotensina                                                   202306
+060484Outras drogas sistêmicas para doenças respiratórias obstrutivas                                     202306
+060485Adrenérgicos em combinação com anticolinérgicos, incluídas combinações triplas com corticosteroides 202306
+060486Outros Produtos para o Sistema Respiratório.                                                        202306
+060487Outros medicamentos afetando a estrutura e a mineralização óssea                                    202306
